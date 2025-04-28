@@ -29,7 +29,7 @@ An interactive and visually stunning AI-powered quote generator that provides pe
 ## Installation:
 1. Clone the repository: 
    ```bash
-https://github.com/Dev-Suraj-Dhawal/AI-Mood-Quote-Generator.git
+   https://github.com/Dev-Suraj-Dhawal/AI-Mood-Quote-Generator.git
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
