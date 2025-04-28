@@ -15,8 +15,8 @@ An interactive and visually stunning AI-powered quote generator that provides pe
 4. Enjoy the positive vibes and animations!
 
 ## Technologies Used:
-- **HTML**: For structuring the app.
-- **CSS**: For styling and animations.
+- **HTML5**: For structuring the app.
+- **CSS3**: For styling and animations.
 - **JavaScript**: For the logic of mood detection and dynamic quote generation.
 - **Emoji Reactions**: Used for added flair and emotional connection.
 - **Particle Animation**: For a magical and immersive experience.
@@ -30,3 +30,6 @@ An interactive and visually stunning AI-powered quote generator that provides pe
 1. Clone the repository: 
    ```bash
 https://github.com/Dev-Suraj-Dhawal/AI-Mood-Quote-Generator.git
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
